@@ -1,0 +1,92 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Red Rose", cursive;
+}
+
+.background-image
+{ 
+  height: 8.130in;
+  width: 38.5cm;
+  margin-bottom: -20.2cm;
+}
+
+.background-image:hover
+{
+}
+
+/* ------------------------------ */
+/* ---------- NAVBAR ------------ */
+/* ------------------------------ */
+
+.logo
+{
+  margin-left: 1cm;
+}
+
+.navbar ul
+{
+  overflow: auto;
+  color:#f7dc0e;
+  margin-left: 13cm;
+  list-style-type: none;
+  margin-top: -0.5cm;
+}
+
+.navbar li:hover
+{
+  text-decoration: underline;
+}
+
+li
+{
+  display: inline;
+  padding-right: 2cm;
+}
+
+.button-small
+{
+  margin-left: 32cm; 
+  background-color:crimson;
+  color: white;
+  padding-left: 0.9cm;
+  padding-right: 0.9cm;
+  padding-top: 0.2cm;
+  padding-bottom: 0.2cm;
+  margin-top: -1.5cm;
+}
+
+/* ------------------------------ */
+/* ---------- Content ------------ */
+/* ------------------------------ */
+
+h1
+{
+  text-align: center;
+  margin-top: 0.4cm;
+  font-size: 2.6cm;
+  margin-left: 6cm;
+  margin-right: 6cm;
+  color:#f7dc0e;
+}
+
+.button-large
+{
+  margin-left: 17cm;
+  margin-bottom: -4cm; 
+  background-color:crimson;
+  color: white;
+  padding-left: 0.9cm;
+  padding-right: 0.9cm;
+  padding-top: 0.5cm;
+  padding-bottom: 0.5cm;
+  margin-bottom: 1cm;
+  font-size: 0.5cm;
+}
+
+.bottom
+{
+  margin-left: 31cm;
+  margin-top: -1cm;
+}
