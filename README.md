@@ -1,4 +1,4 @@
-## ⭐ Food-Restaurant-Home-Page 03 ⭐
+## ⭐ Food-Restaurant-Home-Page 02 ⭐
 
 This is an assignment given in **"JavaScript Full Stack Web Developer Bootcamp"** by **iNeuron**, built using **HTML5 and CSS3**.
 <br>
